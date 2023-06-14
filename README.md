@@ -1,5 +1,4 @@
 # Algo-Trading-Database-Project
-# Algo Trading Database Project
 
 This repository contains the code and documentation for the Algo Trading Database project. The project focuses on creating a database to manage stock auctions, bids, purchases, and sales between users of DC Universe characters.
 

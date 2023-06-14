@@ -10,7 +10,6 @@ This repository contains the code and documentation for the Algo Trading Databas
 3. [Entity Relationship Diagram](#entity-relationship-diagram)
 4. [Relational Model](#relational-model)
 5. [Normalization](#normalization)
-6. [SQL Queries](#sql-queries)
 7. [Learning from the Project](#learning-from-the-project)
 8. [Challenges Faced](#challenges-faced)
 9. [Conclusion](#conclusion)
